@@ -220,6 +220,7 @@ li{
     width: 100%;
     float: left;
     font-family: Roboto;
+    background-color: #FFA448;
 }
 .ContactUs h2{
     font-size: 48px;
@@ -527,3 +528,25 @@ hr{
     margin-bottom: 2rem;
 }
 
+.video {
+    padding: 20px;
+    background-color: white;
+    float: left;
+    box-sizing: border-box;
+
+    width: 100%;
+
+}
+
+.contenedorvideo{
+
+    float: left;
+    width: 45%;
+
+}
+
+.titulovideo{
+    text-align: center;
+    margin-top: 120px;
+    margin-left: -40px;
+}
